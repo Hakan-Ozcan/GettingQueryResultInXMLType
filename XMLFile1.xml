@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<NewDataSet>
+	<Table>
+		<UrunID>1</UrunID>
+		<UrunAdi>Chai</UrunAdi>
+		<TedarikciID>1</TedarikciID>
+		<KategoriID>1</KategoriID>
+		<BirimdekiMiktar>10 boxes x 20 bags</BirimdekiMiktar>
+		<BirimFiyati>19.8000</BirimFiyati>
+		<HedefStokDuzeyi>39</HedefStokDuzeyi>
+		<YeniSatis>0</YeniSatis>
+		<EnAzYenidenSatisMikatari>10</EnAzYenidenSatisMikatari>
+		<Sonlandi>false</Sonlandi>
+	</Table>
+	<Table>
+		<UrunID>2</UrunID>
+		<UrunAdi>Chang</UrunAdi>
+		<TedarikciID>1</TedarikciID>
+		<KategoriID>1</KategoriID>
+		<BirimdekiMiktar>24 - 12 oz bottles</BirimdekiMiktar>
+		<BirimFiyati>20.9000</BirimFiyati>
+		<HedefStokDuzeyi>17</HedefStokDuzeyi>
+		<YeniSatis>40</YeniSatis>
+		<EnAzYenidenSatisMikatari>25</EnAzYenidenSatisMikatari>
+		<Sonlandi>false</Sonlandi>
+	</Table>
+	<Table>
+		<UrunID>3</UrunID>
+		<UrunAdi>Aniseed Syrup</UrunAdi>
+		.
+		.
+		.
+	</Table>
+</NewDataSet>
